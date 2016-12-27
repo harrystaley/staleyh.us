@@ -1,3 +1,14 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+baseurl = "https://staleyh.us/"
+theme = ""
+title = "Crafting Technology Amoung Other Things"
+author = "Harry Staley"
+copyright = "&copy; 2016 <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Licensed CC:By-NC-SA</a>"
+canonifyurls = true
+paginate = 10
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  github = "harrystaley"
+  linkedin = "harrystaley"
