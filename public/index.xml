@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crafting Technology Amoung Other Things</title>
+    <link>https://staleyh.us/index.xml</link>
+    <description>Recent content on Crafting Technology Amoung Other Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 &lt;a href=&#39;http://creativecommons.org/licenses/by-nc-sa/4.0/&#39;&gt;Licensed CC:By-NC-SA&lt;/a&gt;</copyright>
+    <atom:link href="https://staleyh.us/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
