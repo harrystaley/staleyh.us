@@ -1,6 +1,6 @@
 languageCode = "en-us"
 baseurl = "https://staleyh.us/"
-theme = "hugo-bootstrap"
+theme = ""
 title = "Crafting Technology Amoung Other Things"
 author = "Harry Staley"
 copyright = "&copy; 2016 <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Licensed CC:By-NC-SA</a>"
