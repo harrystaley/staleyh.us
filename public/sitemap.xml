@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://staleyh.us/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://staleyh.us/sv/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://staleyh.us/blog/2016/12/29/first-post/</loc>
+    <lastmod>2016-12-29T00:00:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://staleyh.us/</loc>
+    <lastmod>2016-12-29T00:00:12-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://staleyh.us/post/</loc>
+    <lastmod>2016-12-29T00:00:12-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
