@@ -1,3 +1,4 @@
-*.staleyh.us {
-
+staleyh.us {
+  root /var/www/staleyh.us/public/
+  gzip
 }
