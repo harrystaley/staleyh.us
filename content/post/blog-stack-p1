@@ -1,0 +1,13 @@
++++
+date = "2017-01-02T01:19:48-06:00"
+title = "blog stack p1"
+description = "The first installement in how to crate a blog using an ultral light technology stack."
+topics = [Technology]
+tags = []
+draft = true
+
++++
+As the introductory blog post in this series I would like to introduce what I would considder an extremely light weght technology stack that can run on a very inexpensive Digital Ocean Droplet with tons of room to spare. The stack consists of the lowest tier Digial Ocean Droplett running Ubuntu 16.04 LTS, Caddy an extremely light weight web server with HTTPS built in automatically through the magic of Lets' Encrypt, and last but definitely not least HUGO a light weight blogging engine written in GO. Some of you may be asking yourselves why pick those particualr things for your blog? In this post we are going to explore those design decisions.
+
+One of the most interesting things that A friend of mine turned me on to this stack  a fairly  new opens source project called Caddy. Quite simply Caddy is a very light weight web server written in Go; a programming language developed by Google.
+
