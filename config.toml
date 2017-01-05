@@ -19,7 +19,7 @@ paginate = 10
   # Shown in the home page
   subtitle = "Code, Math, Technology, and Life"
   googleAnalytics = ""
-  disqus = ""
+  disqus = "crafting-technology-amoung-other-things"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
