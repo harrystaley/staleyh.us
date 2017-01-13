@@ -1,7 +1,7 @@
 baseurl = "https://staleyh.us/"
 languageCode = "en-us"
 theme = "blackburn"
-title = "Crafting Technology Among Other Things"
+title = "Crafting Technology Amoung Other Things"
 author = "Harry Staley"
 copyright = "&copy; 2016 <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Licensed CC:By-NC-SA</a>"
 canonifyurls = true
@@ -18,7 +18,8 @@ paginate = 10
 [params]
   # Shown in the home page
   subtitle = "Code, Math, Technology, and Life"
-  googleAnalytics = ""
+  brand = "Crafting<br>Technology<br>Amoung<br>Among<br>Other<br>Things"
+  googleAnalytics = "UA-90331715-1"
   disqus = "crafting-technology-amoung-other-things"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
@@ -68,3 +69,5 @@ paginate = 10
   # by entering your username or ID.
   github = "harrystaley"
   linkedin = "harrystaley"
+  hackernews = "harry_staley"
+
